@@ -14,3 +14,7 @@ This repository contains scripts for analysis and figure generation of Arnold et
 # How to
 
 Run scripts in sequence 1 to 5. Please read the comments in each file for more information.
+
+## R version info
+
+Tested on R versions 4.3.1 and 4.4.2.
